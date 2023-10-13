@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Send Ethereum</string>
+    <string name="max_amount">Max %d ETH</string>
+    <string name="secondary_amount">%s %s</string>
+    <string name="fee_amount">Est. Network fees: ~ %s ETH</string>
+    <string name="send">Send %s of ETH</string>
+    <string name="modal_title">Displayed currency</string>
+    <string name="euro">Euros</string>
+    <string name="dollar">Dollars</string>
+    <string name="pounds">Pounds</string>
+    <string name="modal_info">The currency is for information only.\nYou\'re still sending ETH.</string>
+</resources>
